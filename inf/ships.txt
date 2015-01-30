@@ -1,0 +1,189 @@
+﻿
+ Ship Name	 Tritanium	 Pyerite	 Mexallon	 Isogen	 Nocxium	 Zydrine	 Megacyte
+Crucifier	12,000	11,000	1,200	251	75	10	6
+Executioner	20,000	4,000	1,501	300	61	6	0
+Inquisitor	15,001	11,000	2,501	10	6	1	1
+Magnate	12,501	5,500	3,600	151	61	7	2
+Punisher	20,501	5,500	2,601	360	81	16	0
+Tormentor	20,000	2,200	4,000	200	40	10	0
+
+Caldari
+
+ Ship Name	 Tritanium	 Pyerite	 Mexallon	 Isogen	 Nocxium	 Zydrine	 Megacyte
+Bantam	20,000	7,200	2,200	450	2	2	0
+Condor	18,000	4,000	1,900	501	10	1	0
+Griffin	12,000	11,501	1,501	200	51	10	3
+Heron	12,000	10,000	2,200	501	51	8	4
+Kestrel	16,001	5,001	2,601	1,000	51	10	0
+Merlin	19,000	8,001	2,800	531	2	2	2
+
+Gallente
+
+ Ship Name	 Tritanium	 Pyerite	 Mexallon	 Isogen	 Nocxium	 Zydrine	 Megacyte
+Atron	18,501	3,501	2,000	251	51	6	0
+Imicus	15,001	9,501	2,301	251	45	20	2
+Incursus	12,000	10,000	3,600	30	16	6	0
+Maulus	14,001	12,000	2,000	51	2	2	0
+Navitas	17,001	4,201	3,201	251	30	6	0
+Tristan	21,000	5,700	2,700	300	71	10	1
+
+Minmatar
+
+ Ship Name	 Tritanium	 Pyerite	 Mexallon	 Isogen	 Nocxium	 Zydrine	 Megacyte
+Breacher	16,001	13,500	2,501	100	2	2	1
+Burst	16,001	3,000	4,000	151	20	3	1
+Probe	14,001	9,200	2,501	100	71	16	3
+Rifter	20,501	5,600	2,000	321	120	16	1
+Slasher	19,000	4,500	1,501	100	90	0	3
+Vigil	13,000	4,600	2,501	251	75	10	4
+
+Destroyers
+Amarr
+
+ Ship Name	 Tritanium	 Pyerite	 Mexallon	 Isogen	 Nocxium	 Zydrine	 Megacyte
+Coercer	50,274	18,300	4,872	1,024	0	90	18
+Dragoon	55,965	15015	7,098	983	219	42	0
+
+Caldari
+
+ Ship Name	 Tritanium	 Pyerite	 Mexallon	 Isogen	 Nocxium	 Zydrine	 Megacyte
+Corax	51,870	21,840	7,644	1,447	7	7	7
+Cormorant	35,328	10,677	4,597	963	299	97	9
+
+Gallente
+
+ Ship Name	 Tritanium	 Pyerite	 Mexallon	 Isogen	 Nocxium	 Zydrine	 Megacyte
+Algos	56,700	15,390	7,290	810	189	27	3
+Catalyst	46,807	13,201	5,785	0	243	42	25
+
+Minmatar
+
+ Ship Name	 Tritanium	 Pyerite	 Mexallon	 Isogen	 Nocxium	 Zydrine	 Megacyte
+Talwar	55,965	15,288	5,460	874	328	42	3
+Thrasher	43,117	10,335	3,580	1,582	0	81	12
+
+Cruisers
+Amarr
+
+ Ship Name	 Tritanium	 Pyerite	 Mexallon	 Isogen	 Nocxium	 Zydrine	 Megacyte
+Arbitrator	400,000	90,000	37,000	8,001	2,000	501	100
+Augoror	520,001	104,001	30,000	7,801	1,300	351	61
+Maller	570,000	130,000	38,000	9,000	2,301	550	145
+Omen	510,001	120,000	34,001	9,601	2,601	591	186
+
+Caldari
+
+ Ship Name	 Tritanium	 Pyerite	 Mexallon	 Isogen	 Nocxium	 Zydrine	 Megacyte
+Blackbird	370,000	86,001	36,000	8,500	2,200	550	151
+Caracal	490,000	110,000	33,001	9,400	3,000	630	251
+Moa	550,000	140,001	36,000	8,901	2,401	570	175
+Osprey	490,000	117,000	28,000	7,901	1,401	400	81
+
+Gallente
+
+ Ship Name	 Tritanium	 Pyerite	 Mexallon	 Isogen	 Nocxium	 Zydrine	 Megacyte
+Celestis	380,000	87,001	39,000	9,000	1,900	490	90
+Exequror	510,001	121,000	29,000	8,001	1,000	360	90
+Thorax	520,001	130,000	35,001	9,501	2,700	511	130
+Vexor	560,000	120,000	37,000	9,100	2,601	591	161
+
+Minmatar
+
+ Ship Name	 Tritanium	 Pyerite	 Mexallon	 Isogen	 Nocxium	 Zydrine	 Megacyte
+Bellicose	390,000	91,000	39,000	8,100	2,000	450	81
+Rupture	550,000	150,001	35,001	9,200	2,301	470	190
+Scythe	480,000	126,000	31,000	7,701	1,100	370	71
+Stabber	460,000	170,001	36,000	9,300	2,501	560	110
+
+Battlecruisers
+Amarr
+
+ Ship Name	 Tritanium	 Pyerite	 Mexallon	 Isogen	 Nocxium	 Zydrine	 Megacyte
+Harbinger	3,500,001	750,000	185,001	30,000	0	3,000	1,200
+Oracle	5,240,754	1,120,803	281,383	45,675	0	4,431	1,755
+Prophecy	3,700,000	700,001	190,000	31,000	0	2,700	1,000
+
+Caldari
+
+ Ship Name	 Tritanium	 Pyerite	 Mexallon	 Isogen	 Nocxium	 Zydrine	 Megacyte
+Drake	2,500,001	612,071	170,001	18,000	15,001	3,603	850
+Ferox	2,300,001	600,001	175,000	20,000	15,500	3,800	801
+Naga	3,666,468	918,106	252,969	26,201	18,547	5,406	1,260
+
+Gallente
+
+ Ship Name	 Tritanium	 Pyerite	 Mexallon	 Isogen	 Nocxium	 Zydrine	 Megacyte
+Brutix	2,800,000	630,000	220,000	0	11,501	2,200	1,300
+Myrmidon	2,850,001	640,000	210,000	0	13,000	2,501	1,200
+Talos	4,327,765	963,567	323,199	0	20,225	3,786	1,854
+
+Minmatar
+
+ Ship Name	 Tritanium	 Pyerite	 Mexallon	 Isogen	 Nocxium	 Zydrine	 Megacyte
+Cyclone	2,900,000	690,001	170,001	53,001	0	2,800	1,501
+Hurricane	2,700,000	680,001	190,000	50,001	0	3,201	1,300
+Tornado	3,945,031	984,156	237,762	70,425	0	4,273	1,663
+
+Battleships
+Amarr
+
+ Ship Name	 Tritanium	 Pyerite	 Mexallon	 Isogen	 Nocxium	 Zydrine	 Megacyte
+Abaddon	12,483,300	3,120,101	714,501	194,850	48,780	7,590	3,360
+Apocalypse	9,547,801	2,387,401	598,000	149,330	37,321	9,020	2,880
+Armageddon	10,881,100	2,722,000	686,000	170,531	42,531	9,981	4,641
+
+Caldari
+
+ Ship Name	 Tritanium	 Pyerite	 Mexallon	 Isogen	 Nocxium	 Zydrine	 Megacyte
+Raven	9,547,801	2,387,401	598,000	149,320	37,280	8,891	2,830
+Rokh	11,682,601	2,966,400	663,101	158,031	45,450	11,581	2,830
+Scorpion	9,584,701	2,036,800	546,300	149,580	32,410	7,230	3,010
+
+Gallente
+
+ Ship Name	 Tritanium	 Pyerite	 Mexallon	 Isogen	 Nocxium	 Zydrine	 Megacyte
+Dominix	10,408,000	2,603,601	655,500	163,090	40,620	9,290	3,401
+Hyperion	11,817,501	2,954,601	710,400	184,471	46,141	11,340	2,931
+Megathron	9,289,701	2,373,300	582,201	145,290	36,270	8,601	2,640
+
+Minmatar
+
+ Ship Name	 Tritanium	 Pyerite	 Mexallon	 Isogen	 Nocxium	 Zydrine	 Megacyte
+Maelstrom	11,679,500	2,482,200	640,701	155,061	45,720	9,810	2,121
+Tempest	9,289,701	2,323,300	582,901	145,360	36,251	8,550	2,460
+Typhoon	9,251,200	2,513,601	562,401	148,131	31,191	8,210	2,160
+
+Industrial Ships
+Amarr
+
+ Ship Name	 Tritanium	 Pyerite	 Mexallon	 Isogen	 Nocxium	 Zydrine	 Megacyte
+Bestower	72,501	16,300	5,101	501	165	40	9
+Sigil	42,500	13,000	5,850	550	251	40	12
+
+Caldari
+
+ Ship Name	 Tritanium	 Pyerite	 Mexallon	 Isogen	 Nocxium	 Zydrine	 Megacyte
+Badger	64,000	11,401	6,001	400	200	30	6
+Tayra	53,500	13,800	5,250	1,251	251	40	7
+
+Gallente
+
+ Ship Name	 Tritanium	 Pyerite	 Mexallon	 Isogen	 Nocxium	 Zydrine	 Megacyte
+Kryos	64,000	14,301	4,401	630	175	30	10
+Epithal	62,500	10,501	4,101	550	171	26	6
+Miasmos	61,001	11,000	4,600	640	200	26	8
+
+Minmatar
+
+ Ship Name	 Tritanium	 Pyerite	 Mexallon	 Isogen	 Nocxium	 Zydrine	 Megacyte
+Wreathe	74,000	8,400	3,501	601	120	40	6
+Hoarder	81,000	9,501	3,700	521	180	16	12
+
+ORE
+
+ Ship Name	 Tritanium	 Pyerite	 Mexallon	 Isogen	 Nocxium	 Zydrine	 Megacyte
+Venture	22,401	6,700	670	400	45	10	0
+Noctis	3,349,411	936,044	276,937	50,714	24,631	3,438	1,581
+Covetor	2,000,000	600,001	60,001	40,000	4,000	1,000	300
+Procurer	1,400,001	420,001	42,001	28,000	2,800	701	210
+Retriever	1,700,001	510,001	51,001	34,001	3,401	850	255

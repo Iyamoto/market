@@ -1,0 +1,470 @@
+﻿14343;Silo
+#586;Probe
+#597;Punisher
+#602;Kestrel
+#607;Imicus
+11011;Guardian-Vexor
+11172;Helios
+11174;Keres
+11176;Crow
+11178;Raptor
+11182;Cheetah
+11184;Crusader
+11186;Malediction
+11188;Anathema
+11190;Sentinel
+11192;Buzzard
+11194;Kitsune
+11196;Claw
+11198;Stiletto
+11200;Taranis
+11202;Ares
+11285;Cap Booster 200
+11365;Vengeance
+11371;Wolf
+11377;Nemesis
+11379;Hawk
+11381;Harpy
+11387;Hyena
+11393;Retribution
+11400;Jaguar
+11476;R.A.M.- Ammunition Tech
+11486;R.A.M.- Weapon Tech
+11567;Avatar
+11855;Protein Delicacies
+11936;Apocalypse Imperial Issue
+11938;Armageddon Imperial Issue
+11940;Gold Magnate
+11942;Silver Magnate
+11957;Falcon
+11959;Rook
+11961;Huginn
+11963;Rapier
+11965;Pilgrim
+11969;Arazu
+11971;Lachesis
+11987;Guardian
+11989;Oneiros
+11993;Cerberus
+11995;Onyx
+11999;Vagabond
+12003;Zealot
+12011;Eagle
+12015;Muninn
+12017;Devoter
+12019;Sacrilege
+12021;Phobos
+12023;Deimos
+12032;Manticore
+12034;Hound
+12042;Ishkur
+12044;Enyo
+1223;Bistot
+1224;Pyroxeres
+1225;Crokite
+1226;Jaspet
+1227;Omber
+1228;Scordite
+1229;Gneiss
+1230;Veldspar
+1231;Hemorphite
+12608;Hail S
+12612;Void S
+12614;Null S
+12620;Javelin S
+12625;Barrage S
+12729;Crane
+12731;Bustard
+12733;Prorator
+12735;Prowler
+12743;Viator
+12745;Occator
+12747;Mastodon
+12753;Impel
+12789;Void M
+12791;Void L
+13202;Megathron Federate Issue
+16227;Ferox
+16229;Brutix
+16231;Cyclone
+16233;Prophecy
+16236;Coercer
+16238;Cormorant
+16240;Catalyst
+16242;Thrasher
+16272;Heavy Water
+16273;Liquid Ozone
+16274;Helium Isotopes
+16275;Strontium Clathrates
+16633;Hydrocarbons
+16634;Atmospheric Gases
+16635;Evaporite Deposits
+16636;Silicates
+16639;Scandium
+16640;Cobalt
+16641;Chromium
+16643;Cadmium
+16644;Platinum
+16646;Mercury
+16647;Caesium
+16648;Hafnium
+16650;Dysprosium
+16651;Neodymium
+16670;Crystalline Carbonide
+16671;Titanium Carbide
+16672;Tungsten Carbide
+16673;Fernite Carbide
+16678;Sylramic Fibers
+16679;Fullerides
+16682;Hypersynaptic Fibers
+17392;Data Chips
+17436;Onyx Ochre
+17440;Vitric Hedbergite
+17441;Glazed Hedbergite
+17445;Radiant Hemorphite
+17449;Pristine Jaspet
+17452;Luminous Kernite
+17453;Fiery Kernite
+17455;Azure Plagioclase
+17456;Rich Plagioclase
+17459;Solid Pyroxeres
+17460;Viscous Pyroxeres
+17463;Condensed Scordite
+17464;Massive Scordite
+17470;Concentrated Veldspar
+17471;Dense Veldspar
+17476;Covetor
+17478;Retriever
+17480;Procurer
+17619;Caldari Navy Hookbill
+17634;Caracal Navy Issue
+17636;Raven Navy Issue
+17703;Imperial Navy Slicer
+17709;Omen Navy Issue
+17715;Gila
+17718;Phantasm
+17720;Cynabal
+17722;Vigilant
+17726;Apocalypse Navy Issue
+17728;Megathron Navy Issue
+17732;Tempest Fleet Issue
+17736;Nightmare
+17738;Machariel
+17740;Vindicator
+17812;Republic Fleet Firetail
+17841;Federation Navy Comet
+17843;Vexor Navy Issue
+17867;Silvery Omber
+17868;Golden Omber
+17887;Oxygen Isotopes
+17888;Nitrogen Isotopes
+17889;Hydrogen Isotopes
+17898;High-Tech Transmitters
+17918;Rattlesnake
+17920;Bhaalgorn
+17922;Ashimmu
+17924;Succubus
+17926;Cruor
+17928;Daredevil
+17930;Worm
+17932;Dramiel
+18;Plagioclase
+184;Phased Plasma S
+185;EMP S
+19;Spodumain
+1944;Bestower
+19720;Revelation
+19722;Naglfar
+19724;Moros
+19726;Phoenix
+19744;Sigil
+20;Kernite
+2006;Omen
+20125;Curse
+20183;Providence
+20185;Charon
+20187;Obelisk
+20189;Fenrir
+202;Mjolnir Cruise Missile
+203;Scourge Cruise Missile
+204;Inferno Cruise Missile
+205;Nova Cruise Missile
+206;Nova Heavy Missile
+207;Mjolnir Heavy Missile
+2073;Microorganisms
+2078;Zephyr
+208;Inferno Heavy Missile
+209;Scourge Heavy Missile
+21;Hedbergite
+210;Scourge Light Missile
+211;Inferno Light Missile
+212;Mjolnir Light Missile
+213;Nova Light Missile
+215;Iron Charge S
+216;Tungsten Charge S
+2161;Crucifier
+217;Iridium Charge S
+22;Arkonor
+222;Antimatter Charge S
+22428;Redeemer
+22430;Sin
+22436;Widow
+22440;Panther
+22442;Eos
+22444;Sleipnir
+22446;Vulture
+22448;Absolution
+22452;Heretic
+22460;Eris
+22464;Flycatcher
+22466;Astarte
+22468;Claymore
+22470;Nighthawk
+22474;Damnation
+22544;Hulk
+22546;Skiff
+22548;Mackinaw
+2267;Base Metals
+2268;Aqueous Liquids
+2270;Noble Metals
+2272;Heavy Metals
+22852;Hel
+2286;Planktic Colonies
+2287;Complex Organisms
+2288;Carbon Compounds
+230;Antimatter Charge M
+23025;Caldari Navy Antimatter Charge M
+2305;Autotrophs
+23057;Dragonfly
+2306;Non-CS Crystals
+2307;Felsic Magma
+2308;Suspended Plasma
+2309;Ionic Solutions
+2310;Noble Gas
+2311;Reactive Gas
+2329;Biocells
+2348;Gel-Matrix Biopaste
+2349;Supercomputers
+2367;Cryoprotectant Solution
+237;Plutonium Charge L
+23757;Archon
+23773;Ragnarok
+238;Antimatter Charge L
+23911;Thanatos
+23913;Nyx
+23915;Chimera
+23917;Wyvern
+23919;Aeon
+2393;Bacteria
+2395;Proteins
+2396;Biofuels
+2399;Precious Metals
+2400;Toxic Metals
+2401;Chiral Structures
+24427;Drone Link Augmentor II
+24471;Scourge Rage Rocket
+24483;Nidhoggur
+24493;Mjolnir Javelin Heavy Assault Missile
+24495;Scourge Fury Light Missile
+2463;Nanites
+24688;Rokh
+24690;Hyperion
+24692;Abaddon
+24694;Maelstrom
+24696;Harbinger
+24698;Drake
+24700;Myrmidon
+24702;Hurricane
+25594;Tangled Power Conduit
+2629;Scourge Fury Heavy Missile
+266;Scourge Rocket
+2679;Scourge Rage Heavy Assault Missile
+26840;Raven State Issue
+26842;Tempest Tribal Issue
+27920;Electron Bomb
+2834;Utu
+28352;Rorqual
+2836;Adrestia
+28408;Compressed Pure Jaspet
+28606;Orca
+2863;Primae
+28659;Paladin
+28661;Kronos
+28665;Vargur
+28710;Golem
+28844;Rhea
+28846;Nomad
+28848;Anshar
+28850;Ark
+28974;Vaccines
+29248;Magnate
+29266;Apotheosis
+29336;Scythe Fleet Issue
+29337;Augoror Navy Issue
+29340;Osprey Navy Issue
+29344;Exequror Navy Issue
+2998;Noctis
+29984;Tengu
+29986;Legion
+29988;Proteus
+29990;Loki
+30248;Emergent Combat Analyzer
+30377;Fullerite-C320
+30842;Interbus Shuttle
+32207;Freki
+32209;Mimir
+32305;Armageddon Navy Issue
+32307;Dominix Navy Issue
+32309;Scorpion Navy Issue
+32311;Typhoon Fleet Issue
+32788;Cambion
+32790;Etana
+32811;Miasmos Amastris Edition
+32840;InterBus Catalyst
+32842;Intaki Syndicate Catalyst
+32844;Inner Zone Shipping Catalyst
+32846;Quafe Catalyst
+32848;Aliastra Catalyst
+32872;Algos
+32874;Dragoon
+32876;Corax
+32878;Talwar
+32880;Venture
+32983;Sukuuvestaa Heron
+32985;Inner Zone Shipping Imicus
+32987;Sarum Magnate
+32989;Vherokior Probe
+33079;Hematos
+33081;Taipan
+33083;Violator
+33099;Nefantar Thrasher
+33151;Brutix Navy Issue
+33153;Drake Navy Issue
+33155;Harbinger Navy Issue
+33157;Hurricane Fleet Issue
+33190;Tash-Murkon Magnate
+33360;Terahertz Metamaterials
+33818;Orthrus
+34;Tritanium
+35;Pyerite
+3514;Revenant
+3516;Malice
+3518;Vangel
+3532;Echelon
+3573;6x2500mm Heavy Gallium Repeating Cannon
+36;Mexallon
+3645;Water
+3683;Oxygen
+3685;Hydrogen Batteries
+3687;Electronic Parts
+3689;Mechanical Parts
+37;Isogen
+3756;Gnosis
+3764;Leviathan
+3766;Vigil
+38;Nocxium
+3828;Construction Blocks
+3841;Large Shield Extender II
+39;Zydrine
+40;Megacyte
+4005;Scorpion Ishukone Watch
+4051;Caldari Fuel Block
+4246;Minmatar Fuel Block
+4247;Amarr Fuel Block
+4302;Oracle
+4306;Naga
+4308;Talos
+4310;Tornado
+4312;Gallente Fuel Block
+4363;Miasmos Quafe Ultra Edition
+4388;Miasmos Quafe Ultramarine Edition
+44;Enriched Uranium
+582;Bantam
+583;Condor
+5839;Internal Force Field Array I
+584;Griffin
+585;Slasher
+587;Rifter
+588;Reaper
+589;Executioner
+590;Inquisitor
+591;Tormentor
+592;Navitas
+593;Tristan
+594;Incursus
+596;Impairor
+598;Breacher
+599;Burst
+601;Ibis
+603;Merlin
+605;Heron
+606;Velator
+608;Atron
+609;Maulus
+617;Echo
+620;Osprey
+621;Caracal
+622;Stabber
+623;Moa
+624;Maller
+625;Augoror
+626;Vexor
+627;Thorax
+628;Arbitrator
+629;Rupture
+630;Bellicose
+631;Scythe
+632;Blackbird
+633;Celestis
+634;Exequror
+638;Raven
+639;Tempest
+640;Scorpion
+641;Megathron
+642;Apocalypse
+643;Armageddon
+644;Typhoon
+645;Dominix
+648;Badger
+649;Tayra
+650;Nereus
+651;Hoarder
+652;Mammoth
+653;Wreathe
+654;Kryos
+#655;Epithal
+656;Miasmos
+657;Iteron Mark V
+671;Erebus
+672;Caldari Shuttle
+9828;Silicon
+9832;Coolant
+9834;Guidance Systems
+9836;Consumer Electronics
+9846;Planetary Vehicle
+9848;Robotics
+9850;Spirits
+17460;Viscous Pyroxeres
+2508;Nova Torpedo
+2510;Inferno Torpedo
+267;Scourge Torpedo
+2506;Mjolnir Torpedo
+27359;Caldari Navy Nova Torpedo
+27351;Caldari Navy Inferno Torpedo
+27339;Caldari Navy Mjolnir Torpedo
+27345;Caldari Navy Scourge Torpedo
+21740;Caldari Navy Antimatter Charge L
+27447;Caldari Navy Inferno Heavy Missile
+27453;Caldari Navy Nova Heavy Missile
+27435;Caldari Navy Mjolnir Heavy Missile
+27441;Caldari Navy Scourge Heavy Missile
+27413;Caldari Navy Scourge Heavy Assault Missile
+20307;Scourge Heavy Assault Missile
+27387;Caldari Navy Mjolnir Light Missile
+27381;Caldari Navy Nova Light Missile
+27361;Caldari Navy Scourge Light Missile
+27371;Caldari Navy Inferno Light Missile
+27429;Caldari Navy Nova Cruise Missile
+27423;Caldari Navy Inferno Cruise Missile
+27377;Caldari Navy Mjolnir Cruise Missile
+27395;Caldari Navy Scourge Cruise Missile

@@ -1,0 +1,18 @@
+﻿27359;Caldari Navy Nova Torpedo;5000;5500;5500000;2508
+27351;Caldari Navy Inferno Torpedo;5000;5500;5500000;2510
+27339;Caldari Navy Mjolnir Torpedo;5000;5500;5500000;2506
+27345;Caldari Navy Scourge Torpedo;5000;5500;5500000;267
+21740;Caldari Navy Antimatter Charge L;5000;2400;2400000;238
+27447;Caldari Navy Inferno Heavy Missile;5000;3000;3000000;208
+27453;Caldari Navy Nova Heavy Missile;5000;3000;3000000;206
+27435;Caldari Navy Mjolnir Heavy Missile;5000;3000;3000000;207
+27441;Caldari Navy Scourge Heavy Missile;5000;3000;3000000;209
+27413;Caldari Navy Scourge Heavy Assault Missile;5000;3000;3000000;20307
+27387;Caldari Navy Mjolnir Light Missile;5000;2400;2400000;212
+27381;Caldari Navy Nova Light Missile;5000;2400;2400000;213
+27361;Caldari Navy Scourge Light Missile;5000;2400;2400000;210
+27371;Caldari Navy Inferno Light Missile;5000;2400;2400000;211
+27429;Caldari Navy Nova Cruise Missile;5000;4200;4200000;205
+27423;Caldari Navy Inferno Cruise Missile;5000;4200;4200000;204
+27377;Caldari Navy Mjolnir Cruise Missile;5000;4200;4200000;202
+27395;Caldari Navy Scourge Cruise Missile;5000;4200;4200000;203

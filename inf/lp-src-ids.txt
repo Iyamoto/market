@@ -1,0 +1,4 @@
+﻿2508;Nova Torpedo
+2510;Inferno Torpedo
+267;Scourge Torpedo
+2506;Mjolnir Torpedo
