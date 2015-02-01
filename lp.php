@@ -5,7 +5,7 @@ echo "start\n";
 $MaxJumps = 10;
 //$MaxLP = 352000;
 $MaxLP = 100000;
-$MinRatio = 850;
+$MinRatio = 800;
 
 //$stations = array('Jita'=>'60003760','Amarr'=>'60008494'); 
 $stations = array('Jita'=>'60003760'); 
@@ -55,6 +55,7 @@ foreach($LPs as $LPid=>$LP){
 				$rez = GetProfit($LPxml,$stationid,$MinPrice,$q);
 				if($rez['realprofit']>0){
 					if($rez['q']<$q) continue;
+					//$q = $rez['q'];
 					//var_dump($rez);
 					//var_dump($order->station_name);
 					//exit;
@@ -70,6 +71,7 @@ foreach($LPs as $LPid=>$LP){
 							$orderid = $tmp['id'];
 							$sell[$orderid]=$tmp;
 							$sell[$orderid]['q-need'] = $q;
+							$sell[$orderid]['q-sell'] = $rez['q'];
 							$sell[$orderid]['vol-need'] = $q*$Volumes[$id];
 							$sell[$orderid]['lp-need'] = $LP['cost-lp']*$sell[$orderid]['q-need']/$LP['q'];
 							$sell[$orderid]['vol'] = $sell[$orderid]['q']*$Volumes[$id];
@@ -100,7 +102,7 @@ function PrintSell($orders){
 	foreach($orders as $sell){
 		if($sell['ratio']<$MinRatio) continue;
 		echo $sell['lp-name']."\n";
-		$str = 'BUY;'.$sell['price'].';'.$sell['jumps'].';'.$sell['q'].'('.$sell['q-need'].');'.$sell['vol'].';'.$sell['sum'].';'.$sell['station']."\n";
+		$str = 'BUY;'.$sell['price'].';'.$sell['jumps'].';'.$sell['q'].'('.$sell['q-need'].')('.$sell['q-sell'].');'.$sell['vol'].';'.$sell['sum'].';'.$sell['station']."\n";
 		echo $str;
 		$str = 'SELL;'.$sell['ratio'].';'.$sell['sell-price'].';'.$sell['jumps'].';'.$sell['sell-place']."\n";
 		echo $str;

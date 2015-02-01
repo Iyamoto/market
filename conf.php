@@ -4,7 +4,7 @@ require_once 'func.php';
 $tax = 0.009;
 $k1 = 1 - $tax;
 $MaxVolume = 372000;
-$MaxISK = 2020000000;
+$MaxISK = 1921000000;
 //        .mln......
 
 $time = 12;

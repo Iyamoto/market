@@ -468,3 +468,4 @@
 27423;Caldari Navy Inferno Cruise Missile
 27377;Caldari Navy Mjolnir Cruise Missile
 27395;Caldari Navy Scourge Cruise Missile
+9840;Transmitter

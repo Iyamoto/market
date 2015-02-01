@@ -1,0 +1,145 @@
+2674 Isogen - 26.7m3
+1000 единиц veldspar 100м3
+400 единиц Omber 300 м3
+137 штук Oxygen 52,1м3
+4 шт Spare Parts (4м3)
+
+Friggi Security: 0.5
+
+Sentinel Rise
+* Yoko Pihrava (Suku Corp) L1 - (миссия Edge of Reason) за выполнение миссии начисляют корп стендинг (4,6875%)  + 1,875% фракц стендинга!
+привезти 4 шт Spare Parts (4м3)
+
+Airmia Security: 0.6 
+
+Station Foundation Site
+
+1 Kusan Niemenen (Mineral Poksu Group) L1 - 2 серийная миссия i Lost My Stuff
+1) привезти агенту 2674 Isogen - 26.7m3 (ревард 0,1212% корп стендинга)
+2) выбить в плексе 'Contested Caldari Lai Dai Refinery' (Airmia) 
+1шт Kusan Niemenen's Missile Launcher 2м3 (выбил из фрига Guristas Propagandist) - ревард: корп стенд (5,3571%),
+1,875% фракц стендинг и Small 'Wolf' Shield Extender Blueprint ('Dyad' Co-Processor I Blueprint )
+
+Sakkikainen Security: 0.6
+
+Frontier Stockade
+2 Matani Jitainen (Lai Dai Corp) L1 - 3 серии 
+1) курьерка за 2 прыга, привезти 1000 единиц veldspar 100м3
+2) привезти агенту 500 единиц Omber 300 м3. Ревард 1шт Small 'Siesta' Capacitor Booster 
+3) убить несколько дрон-фригов. Ревард - 0,4198% фракц стендинга и Small 'Settler' Shield Booster 
+
+Ishisomo Security: 0.7 
+
+NOH Recruitment Center
+3 Hansu Turu (Nugo Corp) L1 - 3 серийная миссия
+1) курьерка 2 пырга (внутри системы) 35 м3
+2) килл миссия - убить 8 фригов
+3) курьерка 2 прыга (внутри системы) - 0,2м3 - ревард 0,164% фракц стендинга и 'Gallows' Standard Missile Launcher Blueprint  (Small 'Settler' Shield Booster Blueprint )
+
+4 Ryuki Sakkaro (Prompt Deliv) L1 - 2 серии
+1) привезти агенту 5 шт Nugoeihuvi Dogtag 0,5м3, выбиваются из фригов Nugoeihuvi Miner и Nugoeihuvi Defender в комплексе 'Contested Caldari Lai Dai Refinery' система Airmia
+2) курьерка на 2-3 джампа груз 6 м3 - ревард 0.143-0.1522% фракц стендинга и Micro 'Trapper' Shield Extender Blueprint ('Dyad' Co-Processor I Blueprint ) 
+
+
+Airmia Security: 0.6 
+
+Grand Crag Watch
+5 Oniya Arkimo (Lai Dai Corp) L2 - 3 серийная миссия 
+1) привезти агенту 1шт Encoded Lai Dai Reports 0,1м3 (выбивается в Airmia из фригов Nugoeihuvi Defender)
+2) курьерка 1-2 джампа, отвезти Encoded Lai Dai Reports 2 шт 0,2м3 
+3) привезти агенту 5шт Encoded Lai Dai Reports 0,5м3 - ревард 4,375% фракц стенд и 
+'Undertaker' Heavy Missile Launcher Blueprint  (Nugget Ballistic Deflection Field Blueprint)
+
+
+6 Istei Poyri (Nugo Corp) L2 - 4 серийная миссия
+1) курьерка 1 джамп -  0,1м3
+2) курьерка: 70м3, 1+2 джампов
+3) привезти 137 штук Oxygen 52,1м3
+4) привезти 5 шт Propel Dynamics Dogtag (выбиваются в 'Contested Caldari Lai Dai Refinery' (Airmia) из фригов Propel Dynamics Miner/Defender) - 
+ревард 2.8436-2,9129%% фракц стенд и Medium 'Canyon' Shield Extender Blueprint (3 ран) 
+
+
+Sakkikainen Security: 0.6
+
+Settler's Waystation
+
+7 Raidon Setala (Chief Exec) L2 - 5 серий
+1) привезти агенту 1шт Scanner Data I объем 0,1м3. Варпаем на буку из журнала, проходим плекс (характерен расстояниями между воротами 130-190км). 
+В последнем кармане контейнер с именем Surveillance Telescope (Type: Radio_Telescope_MISSION), после убийства неписи забираем квестовый предмет. 
+Ревард Medium 'Gattotte' Capacitor Booster Blueprint  (два раза)
+2) выбить в белтах констелляции Okkelen 1шт Scanner Data II объем 0,1м3, привезти агенту.
+3) выбить в белтах констелляции Okkelen 1шт Scanner Data III объем 0,1м3, привезти агенту. Ревард 'Plunderer' Spatial Destabilizer Blueprint  (два раза)
+4) привезти Quao Kale, дропается из крузака Quao Kale в системе Sakkikainen плекс Contested Kazka Headquarters гейт Kazka Development Depot. Ревард Small 'Wolf' Shield Extender Blueprint  (два раза)
+5) Курьерка 7 джампов (через лоу!, есть путь через хайсек - чуть подольше) объем 1м3. Ревард 1,8121% фракц стендинга, 3% имп, Small 'Wolf' Shield Extender Blueprint (150mm 'Musket' Railgun Blueprint ) 
+
+Ishisomo Security: 0.7 
+
+Rusty Ridge Mine
+8 Retin Ariato (Wiyrkomi) L2 - 4 серийная
+1) привезти агенту 3 шт Wiyrkomi Rifles 15м3 (Airmia -> Contested Caldari Lai Dai Refinery / Contested Plagioclase field круизер Nugoehuvi Propagandist)
+2) курьерка внутри системы 15м3 - ревард 'Balefire' Rocket Launcher Blueprint (Micro 'Trapper' Shield Extender Blueprint )
+3) курьерка 1 (2+2) джамп 3м3
+4) привезти 1 шт Ancient Weapon 2м3 (Airmia -> Contested Caldari Lai Dai Refinery / Contested Scorodite Field структура Storage Silo) - ревард 2.6962% фракц стендинга и 
+Medium 'Lone Ranger' Shield Booster Blueprint  ('Pickaxe' Assault Missile Launcher Blueprint )
+
+Vahunomi Security: 0.5 
+
+9 Mika Etsuya (Caldari Nav) L2 - 4 серийная
+1) привезти агенту 30 штук Drifter Spur объем 3м3 (дропается из фригов в системе Sakkikainen в плексах Contested Kazka Headquarters и Bandit Hideout)
+2) привезти агенту 500 штук Bag of Counterfeit Credits объем 50м3 (дропается в системе Sakkikainen плекс Contested Kazka Headquarters (первый карман) с Dry River Gangmembers (40штук с фрига))
+3) курьерка 2 прыга, объем 50м3
+4) привезти агенту 5 штук Parts of Printing Machine объем 5м3 (дропается из структуры Dry River Warehouse в системе  Airmia плекс Contested Lai Dai Refinery карман Contested Plagioclase Field). Ревард 2.4306%-2,4779% фракц стендинга, 
+Medium 'Gattotte' Capacitor Booster Blueprint  (Posse Invulnerability Field Blueprint, 'Undertaker' Heavy Missile Launcher Blueprint )
+
+10 Jali Tanaka (Caldari Nav) L2 - 3 серийная миссия
+1) курьерка  3+3 джампа 2м3
+2) привезти агенту 1 шт Broken Bug Device объем 0,1м3. Дропается из нпц Dyklan Harrikar - система Sakkikainen, плекс Contested Kazka Headquarters, ворота Kazka Development Depot.
+3) курьерка 120м3 (роут через лосеки, есть путь через хайсеки) 6+6 джампов. Ревард: 4,2445%-4.2506% фракц стендинга, 
+'Balefire' Rocket Launcher Blueprint (150mm 'Musket' Railgun Blueprint, 'Dyad' Co-Processor I Blueprint)
+
+Sakkikainen Security: 0.6
+
+Frontier Stockade
+
+11 Kaiya Tuuri (Lai Dai Prot) L2 - 4 серии
+1) привезти агенту 30 штук Drifter Spur (дропается из фригов в системе Sakkikainen в плексах Contested Kazka Headquarters и Bandit Hideout)
+2) отправляют в одну из соседних систем, там варпаем на буку из журнала, небольшой плекс. В последнем кармане фриг Zarkona Mirei, 
+убиваем, лутаем тело (Zarkona Mirei 1м3) из выпавшего конта, возвращаемся к агенту. Ревард 5% имп
+3) курьерка 1-2 прыга 1 м3. Ревард 'Gallows' Standard Missile Launcher Blueprint 
+4) привезти агенту Cheri Mirei's DNA . Выбивается из крузака The Duke, ищем в Otitoh Solar System планета 6 луна 3. 
+Ревард 4,375% фракц стендинга, +2имп и 150mm 'Musket' Railgun Blueprint 
+
+Friggi Security: 0.5
+
+Sentinel Rise
+* Yoko Pihrava (Suku Corp) L1 - (миссия Edge of Reason) за выполнение миссии начисляют корп стендинг (4,6875%)  + 1,875% фракц стендинга!
+привезти 4 шт Spare Parts (4м3)
+
+12 Helmi Nakamuta (Caldari Prov) L2 - 3 серийная миссия
+1) курьерка - отвезти груз в Ihakana (лоу!) 420 м3
+2) курьерка 2 прыга 644 м3
+3) курьерка 2 прыга, 360 м3 - ревард 0,2569%-0,2572%  фракц стендинга и Poacher Photon Scattering Field Blueprint (дали три раза)
+
+13 Maro Yama (Caldari Navy) L3 - 3 серийная миссия
+1) курьерка 300м3 1+1 джамп.
+2) курьер 350м3 1+1 джамп.
+3) килл миссия (3 крузака), бука в журнале (плекс в системе, но иногда отправляют дальше). Убить крузаки и привезти голову Jerpam Hollek's Head 0,1м3. 
+Ревард 0,995% фракц стендинга, и Large 'Outlaw' Shield Booster Blueprint 
+
+Ishisomo Security: 0.7 
+
+14 Yru Hatamei (Lai Dai Prot) L3 - 4 серийная миссия
+1) курьерка 3 джампа 0,3м3
+2) курьерка 2+2 джампа 0,5м3
+3) привезти 1 шт Ancient Weapon 2м3 (Airmia -> Contested Caldari Lai Dai Refinery / Contested Scorodite Field структура Storage Silo)
+4) привезти 5 штук Guristas Outlaw Dogtag 0,5м3 (Airmia -> Contested Caldari Lai Dai Refinery). 
+Ревард  2,777%-2.8031% фракц стендинга, Medium 'Canyon' Shield Extender Blueprint (Poacher Photon Scattering Field Blueprint)
+
+Friggi Security: 0.5
+
+Bandit Hideout
+15 Aisha Gojivi (Suku Corp) L3 - 4 серии
+1) курьерка 5 000 м3 внутри системы.
+2) привезти агенту 1 шт Nugoeihuvi Transaction Logs 1м3. Выбивается из крузака Motani Ihura в системе Friggi в первом кармане плекса Contested Caldari Mining Facilities
+3) килл мисися, бука в журнале - 2 фрига 2 крузака
+4) курьерка 1 джамп (по слухам бывает в лоу) 0,1м3. Ревард 0,7342% фракц стендинга и 1шт - 250mm 'Flintlock' Railgun 

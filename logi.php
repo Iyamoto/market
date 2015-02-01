@@ -5,7 +5,7 @@ echo "start\n";
 $MaxJumps = 50;
 $JumpProfit = 100000;
 $MinProfit = 3000000;
-$Location = 'Dodixie';
+$Location = 'Amarr';
 
 $stations = array('Jita'=>'60003760'); 
 

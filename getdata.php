@@ -19,6 +19,8 @@ foreach($ids as $id=>$name){
 }	
 exit;*/
 
+libxml_use_internal_errors(true);
+
 echo "Name;SRC-DST;ISK per jump;Profit;Jumps;Quantity;Volume;Money;BuyPrice;SellPrice;MaxPrice;Station\n";
 foreach($ids as $id=>$name){
 	if (strpos($id, '#')!==false) {
@@ -27,8 +29,14 @@ foreach($ids as $id=>$name){
 	$path = 'data\\'.$id.'.xml';
 	$XMLData = GetXml($path,$id,$time);
 	$xml = simplexml_load_string($XMLData);
-	if ($xml===false) continue;
-	
+	if ($xml===false) {
+	    foreach(libxml_get_errors() as $error) {
+			echo "\t", $error->message;
+		}
+		var_dump($id);
+		//exit;
+		continue;
+	}
 	//Get prices
 	$prices['Jita']['buy'][$id] = GetMaxBuyPrice($xml,$stations['Jita']);
 	$prices['Hek']['buy'][$id] = GetMaxBuyPrice($xml,$stations['Hek']);
